@@ -1,4 +1,7 @@
-# test coverage for  [cson (v4.1.0)](https://github.com/bevry/cson)  [![npm package](https://img.shields.io/npm/v/npmtest-cson.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cson) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cson.svg)](https://travis-ci.org/npmtest/node-npmtest-cson)
+# npmtest-cson
+
+#### basic test coverage for  [cson (v4.1.0)](https://github.com/bevry/cson)  [![npm package](https://img.shields.io/npm/v/npmtest-cson.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cson) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cson.svg)](https://travis-ci.org/npmtest/node-npmtest-cson)
+
 #### CoffeeScript-Object-Notation Parser. Same as JSON but for CoffeeScript objects.
 
 [![NPM](https://nodei.co/npm/cson.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cson)
